@@ -94,6 +94,7 @@ A list of useful links and resources I gathered during the Neue Fische Bootcamp.
 - [Iconscout (Icon library, free with GitHub student pack)](https://iconscout.com/)
 - [Material.io (Icon library by Google)](https://material.io/resources/icons/?style=baseline)
 - [Google Fonts (Font library, easy to implement)](https://fonts.google.com/)
+- [CSS.gg (Icon library)](https://css.gg/)
 
 ### Tools
 
